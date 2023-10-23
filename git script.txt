@@ -17,3 +17,7 @@ Git status
 
 Git Commit
 ->Git commit is a command used in Git that records the changes and saves made to the repository
+
+Git Push
+->Git push is a command used in Git that updates the remote repository with local commits
+
