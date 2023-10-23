@@ -26,3 +26,6 @@ Git Pull
 
 Git Log
 ->Git log is a command used in Git that shows a list/the history of all the commits made to a repository
+
+Git stash 
+->Git stash is a command used in Git that allows you to temperarily save your local changes in a "stash" which is in a separate area - this is useful when you need to work on something else without commiting your current changes
