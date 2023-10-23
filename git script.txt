@@ -15,4 +15,5 @@ Git add
 Git status
 ->Git staus is a command used in Git that shows the staus of the working tree (or just the state of your working directory)
 
-
+Git Commit
+->Git commit is a command used in Git that records the changes and saves made to the repository
