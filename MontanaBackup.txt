@@ -1,4 +1,4 @@
-Git Assignment – Montana Nicholas :)
+Git Assignment – Montana Nicholas
 
 Git Init
 ->Git init is a command used in Git that can create an empty git repository or organise an already existing one
