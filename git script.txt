@@ -23,3 +23,6 @@ Git Push
 
 Git Pull
 ->Git pull is a command used in Git that updates the local version of a repository from a remote repository
+
+Git Log
+->Git log is a command used in Git that shows a list/the history of all the commits made to a repository
