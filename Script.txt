@@ -12,4 +12,7 @@ Git clone
 Git add
 ->Git add is a command used in Git that adds files in the working directory to the main staging area
 
+Git status
+->Git staus is a command used in Git that shows the staus of the working tree (or just the state of your working directory)
+
 
