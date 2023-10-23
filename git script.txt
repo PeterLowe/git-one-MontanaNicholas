@@ -21,3 +21,5 @@ Git Commit
 Git Push
 ->Git push is a command used in Git that updates the remote repository with local commits
 
+Git Pull
+->Git pull is a command used in Git that updates the local version of a repository from a remote repository
